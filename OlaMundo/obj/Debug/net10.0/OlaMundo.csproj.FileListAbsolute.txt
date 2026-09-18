@@ -1,0 +1,14 @@
+C:\Dev\CSharp Com IA\OlaMundo\bin\Debug\net10.0\OlaMundo.exe
+C:\Dev\CSharp Com IA\OlaMundo\bin\Debug\net10.0\OlaMundo.deps.json
+C:\Dev\CSharp Com IA\OlaMundo\bin\Debug\net10.0\OlaMundo.runtimeconfig.json
+C:\Dev\CSharp Com IA\OlaMundo\bin\Debug\net10.0\OlaMundo.dll
+C:\Dev\CSharp Com IA\OlaMundo\bin\Debug\net10.0\OlaMundo.pdb
+C:\Dev\CSharp Com IA\OlaMundo\obj\Debug\net10.0\OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CSharp Com IA\OlaMundo\obj\Debug\net10.0\OlaMundo.AssemblyInfoInputs.cache
+C:\Dev\CSharp Com IA\OlaMundo\obj\Debug\net10.0\OlaMundo.AssemblyInfo.cs
+C:\Dev\CSharp Com IA\OlaMundo\obj\Debug\net10.0\OlaMundo.csproj.CoreCompileInputs.cache
+C:\Dev\CSharp Com IA\OlaMundo\obj\Debug\net10.0\OlaMundo.dll
+C:\Dev\CSharp Com IA\OlaMundo\obj\Debug\net10.0\refint\OlaMundo.dll
+C:\Dev\CSharp Com IA\OlaMundo\obj\Debug\net10.0\OlaMundo.pdb
+C:\Dev\CSharp Com IA\OlaMundo\obj\Debug\net10.0\OlaMundo.genruntimeconfig.cache
+C:\Dev\CSharp Com IA\OlaMundo\obj\Debug\net10.0\ref\OlaMundo.dll
