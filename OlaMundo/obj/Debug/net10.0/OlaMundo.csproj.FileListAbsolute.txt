@@ -12,3 +12,4 @@ C:\Dev\CSharp Com IA\OlaMundo\obj\Debug\net10.0\refint\OlaMundo.dll
 C:\Dev\CSharp Com IA\OlaMundo\obj\Debug\net10.0\OlaMundo.pdb
 C:\Dev\CSharp Com IA\OlaMundo\obj\Debug\net10.0\OlaMundo.genruntimeconfig.cache
 C:\Dev\CSharp Com IA\OlaMundo\obj\Debug\net10.0\ref\OlaMundo.dll
+C:\Dev\CSharp Com IA\OlaMundo\obj\Debug\net10.0\OlaMundo.sourcelink.json
